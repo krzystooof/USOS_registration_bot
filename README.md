@@ -5,7 +5,7 @@ Python script created to automaticaly register for USOS subjects. It does not ch
 ## Features:
 * automaticaly login
 * get targret time
-* click REGISTER in target time
+* click REGISTER at target time
 
 To enable loging in:
 
