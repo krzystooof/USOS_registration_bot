@@ -1,16 +1,15 @@
-#USUS registration bot
+# USOS registration bot
 
 Python script created to automaticaly register for USOS subjects. It does not chceck if registration is valid.
 
-##Features:
+## Features:
 * automaticaly login
 * get targret time
 * click REGISTER in target time
 
-To enable loging in change:
+To enable loging in:
 
 ```
 user_login = <your USOS login>
 user_password = <your USOS password>
-
 ```
